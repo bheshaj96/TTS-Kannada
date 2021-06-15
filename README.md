@@ -21,8 +21,8 @@
     </tr>
     <tr>
       <td style="text-align: center"><i>GT (Mel + WaveRNN)</i></td>
-      <td style="text-align: center">1.119 &#177; 0.0476</td>
-      <td style="text-align: center">1.0441 &#177; 0.01867</td>
+      <td style="text-align: center">1.11414 &#177; 0.0446</td>
+      <td style="text-align: center">1.042 &#177; 0.0177</td>
     </tr>
     <tr>
       <td style="text-align: center"><i>FastSpeech (Mel + WaveRNN)</i></td>
